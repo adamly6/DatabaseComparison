@@ -58,5 +58,5 @@ install", "npm run build" then "npm run preview"
 
 * Clone the repo
    ```sh
-   git clone https://github.com/adamly6/OutBox.git
+   git clone https://github.com/adamly6/DatabaseComparison.git
    ```
