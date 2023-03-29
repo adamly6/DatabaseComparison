@@ -54,7 +54,7 @@ install", "npm run build" then "npm run preview"
 .env
 - In the same “server” folder, run the command in the terminal
 “npm install” then “npm run dev”
-- The project is available at 'http://localhost:5173
+- The project is available at http://localhost:5173
 
 * Clone the repo
    ```sh
